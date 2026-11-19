@@ -1,3 +1,5 @@
 [text](../../animals/fish/giantGourami.html)
 ![alt text](<../../animals/fish/Giant Gourami.jpg>) Image by <a href="https://pixabay.com/users/mc_baris0-736090/?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=616465">mc_baris0</a> from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=616465">Pixabay</a>
-![alt text](<../../animals/fish/Giant gourami.png>) 
+![alt text](<../../animals/fish/Giant gourami.png>) Image by <a href= "https://commons.wikimedia.org/wiki/File:Osphronemus_Gourami_(better).png"> Joshua Sherurcij </a> from <a href= "https://upload.wikimedia.org/wikipedia/commons/0/09/Osphronemus_Gourami_%28better%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"> Wikipedia </a>
+
+![alt text](<../../animals/fish/GIANT GOURMAI.avif>) Image by <a href= "https://www.pexels.com/photo/large-white-fish-in-aquarium-with-rock-background-34486965/"> Monamie Chakravarti </a> from 
